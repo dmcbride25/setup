@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "happy day\n";
+    std::cout << "hello world\n";
+    std::cout << "git\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
